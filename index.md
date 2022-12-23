@@ -17,7 +17,7 @@ Welcome to my personal website! I am a Research Fellow at The University of Quee
 
 ## Selected Publications
 
-- Mitchell, T., Johnson, J., Smith, K., "Comparison of free-surface and conservative Allen–Cahn phase-field lattice Boltzmann method," *Journal of Computational Physics*, vol. 473, 111753, 2023.
+- C Schwarzmeier, M Holzer, T Mitchell, M Lehmann, F Häusl, U Rüde, "Comparison of free-surface and conservative Allen–Cahn phase-field lattice Boltzmann method," *Journal of Computational Physics*, vol. 473, 111753, 2023.
 
 ## Contact
 
